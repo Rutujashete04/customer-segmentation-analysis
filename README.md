@@ -490,9 +490,9 @@ The dataset includes 11 customer characteristics:
 
 📧 your.email@example.com  
 
-💼 \[LinkedIn](https://linkedin.com/in/yourprofile)  
+💼 \[LinkedIn](https://www.linkedin.com/in/rutujashete05/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B7qJrjNFUS7CntlcO%2FZF2pA%3D%3D)
 
-🐙 \[GitHub](https://github.com/yourusername)
+🐙 \[GitHub](https://github.comRutujashete04)
 
 
 
